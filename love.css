@@ -14,6 +14,7 @@
     background-repeat:no-repeat;
     background-size:100% 100vh;
     width: 100%;
+    margin: 15px; 
 }
 .h h1{
     display: flex;
@@ -100,7 +101,7 @@
     }
 
     .h p{
-        font-size: 14px;
+        font-size: 12px;
     }
     .h h2{
         font-size: 40px;
@@ -109,7 +110,7 @@
         font-size: 60px;
     }
     .l p{
-        font-size: 25px;
+        font-size: 27px;
         margin: 25px;
     }
     .v p{
@@ -126,7 +127,7 @@
     }
 
     .h p{
-        font-size: 15px;
+        font-size: 13px;
     }
     .h h2{
         font-size: 45px;
@@ -135,7 +136,7 @@
         font-size: 90px;
     }
     .l p{
-        font-size: 42px;
+        font-size: 40px;
         margin: 20px;
     }
     .v p{
@@ -154,7 +155,7 @@
     }
 
     .h p{
-        font-size: 16px;
+        font-size: 14px;
     }
     .h h2{
         font-size: 70px;
@@ -164,11 +165,11 @@
         font-size: 130px;
     }
     .l p{
-        font-size: 42px;
+        font-size: 45px;
         margin: 35px;
     }
     .v p{
-        font-size: 45px;
+        font-size: 42px;
         margin: 30px;
         margin-left: 120px;
     }
@@ -180,7 +181,7 @@
     }
 
     .h p{
-        font-size: 23px;
+        font-size: 20px;
     }
     .h h2{
         font-size: 80px;
