@@ -57,7 +57,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background:#8fb8d1;
+    background:#6d9bbd;
 }
 
 
@@ -91,7 +91,7 @@
 }
 
 .v {
-background:#8fb8d1;
+background:#6d9bbd;
 }
 
 @media (min-width:300px){
@@ -109,7 +109,7 @@ background:#8fb8d1;
         font-size: 60px;
     }
     .l p{
-        font-size: 20px;
+        font-size: 23px;
         margin: 25px;
     }
     .v p{
@@ -126,7 +126,7 @@ background:#8fb8d1;
     }
 
     .h p{
-        font-size: 22px;
+        font-size: 20px;
     }
     .h h2{
         font-size: 45px;
@@ -154,7 +154,7 @@ background:#8fb8d1;
     }
 
     .h p{
-        font-size: 23px;
+        font-size: 21px;
     }
     .h h2{
         font-size: 70px;
@@ -180,7 +180,7 @@ background:#8fb8d1;
     }
 
     .h p{
-        font-size: 30px;
+        font-size: 28px;
     }
     .h h2{
         font-size: 80px;
